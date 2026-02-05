@@ -1,7 +1,7 @@
 ---
 name: create-content-types
 description: Create all content types and their fields defined in REQUIREMENTS.md using Drush commands via DDEV.
-disable-model-invocation: true
+disable-model-invocation: false
 allowed-tools: Bash, Read, Grep, Task
 ---
 

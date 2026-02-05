@@ -1,7 +1,7 @@
 ---
 name: create-taxonomies
 description: Create all taxonomy vocabularies and terms defined in REQUIREMENTS.md using Drush commands via DDEV.
-disable-model-invocation: true
+disable-model-invocation: false
 allowed-tools: Bash, Read, Grep, Task
 ---
 

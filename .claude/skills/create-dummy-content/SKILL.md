@@ -1,7 +1,7 @@
 ---
 name: create-dummy-content
 description: Create dummy content (nodes with images fetched from the Target Site) for all content types defined in REQUIREMENTS.md using Drush commands via DDEV.
-disable-model-invocation: true
+disable-model-invocation: false
 allowed-tools: Bash, Read, Grep, Task, WebFetch, WebSearch
 ---
 
